@@ -7,7 +7,7 @@ Due: March 12, 2024
 
 Q2: Job satisfaction and gender: Are women more satisfied than men at work?## 
 
-Q2: List the top 25 military forces by total aircraft fatalities that happened in the period between 2000 and 2009?##
+Q4: Which department-based employees receives lowest median hourly rate? ##
 
 Q6: Develop a geo map that shows places where the crashes happened and number of fatalities.##
 
