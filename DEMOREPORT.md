@@ -5,7 +5,7 @@ Due: March 12, 2024
 
 ## Dataset 3 : Employee compensation
 
-Q1: What are the 10 worst plane crashes that happened between 1908 and 2009?#
+Q2: Job satisfaction and gender: Are women more satisfied than men at work?## 
 
 Q2: List the top 25 military forces by total aircraft fatalities that happened in the period between 2000 and 2009?##
 
