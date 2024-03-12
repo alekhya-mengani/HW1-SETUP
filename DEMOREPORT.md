@@ -7,8 +7,9 @@ Due: March 12, 2024
 
 Q2: Job satisfaction and gender: Are women more satisfied than men at work?## 
 
+Q3: What is the minimum monthly rate for age group between 40 and 60 (trend analysis)?#
+
 Q4: Which department-based employees receives lowest median hourly rate? ##
 
-Q6: Develop a geo map that shows places where the crashes happened and number of fatalities.##
 
 
